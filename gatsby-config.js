@@ -6,7 +6,7 @@ module.exports = {
     title: 'Sourav M',
     description:
       'I’m Sourav Manikandan, a full stack developer specializing in creating responsive, user-centered web solutions. I’m passionate about building innovative and accessible digital experiences.',
-    siteUrl: 'https://souravmanikandan.github.io/portfolio/', // No trailing slash allowed!
+    siteUrl: 'https://souravmanikandan.github.io/v1', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@sourav_m__',
   },
