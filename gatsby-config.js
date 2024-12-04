@@ -1,7 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/v1',
+  pathPrefix: '/v1/',
   siteMetadata: {
     title: 'Sourav M',
     description:
@@ -23,7 +23,7 @@ module.exports = {
       options: {
         name: 'Sourav M',
         short_name: 'Sourav M',
-        start_url: '/v1',
+        start_url: 'https://souravmanikandan.github.io/v1/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
