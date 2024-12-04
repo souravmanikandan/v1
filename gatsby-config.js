@@ -23,7 +23,7 @@ module.exports = {
       options: {
         name: 'Sourav M',
         short_name: 'Sourav M',
-        start_url: '/',
+        start_url: '/v1',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
