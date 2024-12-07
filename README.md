@@ -1,25 +1,25 @@
-<div align="center">
+<!-- <div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
-</div>
+</div> -->
 <h1 align="center">
-  Sourav M
+  Sourav M - v1 (Thanks to <a href="https://brittanychiang.com/">brittanychiang</a>)
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://souravmanikandan.github.io/portfolio/" target="_blank">sourav.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The fourth iteration of <a href="https://souravmanikandan.github.io/portfolio/" target="_blank">sourav.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Github Pages</a>
 </p>
-<p align="center">
+<!-- <p align="center">
   Previous iterations:
   <a href="https://souravmanikandan.github.io/portfolio/" target="_blank">v1</a>,
   <a href="https://souravmanikandan.github.io/portfolio/" target="_blank">v2</a>,
   <a href="https://souravmanikandan.github.io/portfolio/" target="_blank">v3</a>
-</p>
+</p> -->
 <p align="center">
   <a href="https://souravmanikandan.github.io/portfolio/" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+<!-- ![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png) -->
 
 ## 🚨 Forking this repo (please read!)
 
@@ -28,6 +28,7 @@ Many people have contacted me asking me if they can use this code for their own 
 I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
 
 Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+git push origin dev.
 
 ### TL;DR
 
