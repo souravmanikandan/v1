@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://souravmanikandan.github.io/sitemap.xml
+Host: https://souravmanikandan.github.io
