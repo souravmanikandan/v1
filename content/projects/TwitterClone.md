@@ -4,9 +4,8 @@ title: 'Twitter Clone'
 github: 'https://github.com/souravmanikandan/twitter-clone'
 external: 'https://twitter-clone-wsgx.onrender.com/login'
 tech:
-  - React.js
-  - Node.js
-  - Express.js
+  - React
+  - Node
   - MongoDB
 showInProjects: true
 ---
